@@ -1,4 +1,5 @@
 INTRODUCTION
+
 The Life Pattern Prediction System employs machine learning to analyze socio-economic and health indicators, aiming to forecast life expectancy and inform targeted public health interventions for improved population well-being
 
 Significance of the Project
